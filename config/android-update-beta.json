@@ -1,6 +1,23 @@
 {
   "schema_version": 1,
-  "enabled": false,
+  "enabled": true,
   "channel": "beta",
-  "package": "com.astraforge.idle"
+  "package": "com.astraforge.idle",
+  "version": "0.8.3",
+  "version_code": 83,
+  "apk_url": "https://github.com/AstraryxIdle/astraryx-releases/releases/download/v0.8.3/Astraryx-Idle-v0.8.3.apk",
+  "size_bytes": 924646974,
+  "sha256": "98ac9955d2be051265a7c6da03da0de4a811a9070db1d0fd8240497ea1d5c1e1",
+  "notes": {
+    "pt-BR": [
+      "Astraryx Idle v0.8.3 disponível para Android.",
+      "Correções e melhorias do jogo e do fluxo de atualização.",
+      "Sincronize seu progresso na nuvem antes de instalar."
+    ],
+    "en": [
+      "Astraryx Idle v0.8.3 is available for Android.",
+      "Game improvements and fixes to the update flow.",
+      "Sync your progress to the cloud before installing."
+    ]
+  }
 }
