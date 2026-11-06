@@ -3,24 +3,24 @@
   "enabled": true,
   "channel": "beta",
   "package": "com.astraforge.idle",
-  "version": "0.8.6",
-  "version_code": 80600,
-  "apk_url": "https://github.com/AstraryxIdle/astraryx-releases/releases/download/v0.8.6/Astraryx-Idle-v0.8.6.apk",
-  "size_bytes": 881339371,
-  "sha256": "3af4dbbbccd787299afe114f9ada716f4e08777752e76bb3d1cf318825bd5364",
+  "version": "0.8.6.1",
+  "version_code": 80601,
+  "apk_url": "https://github.com/AstraryxIdle/astraryx-releases/releases/download/v0.8.6.1/Astraryx-Idle-v0.8.6.1.apk",
+  "size_bytes": 881340259,
+  "sha256": "0c6f5988a5848019700ee62e4006e08ae4e7ab208706c2fa92ba5c9268041fa6",
   "notes": {
     "pt-BR": [
-      "Astraryx Idle v0.8.6 disponível para Android.",
-      "Novo sistema World Boss e melhorias de estabilidade dos combates e recompensas.",
-      "Rebalanceamento da progressão dos Mundos 1 a 5 e dos bosses do Mundo 4.",
-      "Otimização do tráfego do servidor e da sincronização dos saves na nuvem.",
+      "Astraryx Idle v0.8.6.1 — Hotfix Beta disponível para Android.",
+      "Corrigido o avanço automático do World após operações da Arena e de runas.",
+      "Confirmações de compras e refinamentos otimizadas para reduzir consultas ao servidor.",
+      "Melhorias de estabilidade e sincronização nas operações da Arena.",
       "Sincronize seu progresso na nuvem antes de instalar."
     ],
     "en": [
-      "Astraryx Idle v0.8.6 is available for Android.",
-      "New World Boss system with improved battle and reward stability.",
-      "Rebalanced progression across Worlds 1–5 and World 4 bosses.",
-      "Optimized server traffic and cloud save synchronization.",
+      "Astraryx Idle v0.8.6.1 — Hotfix Beta is available for Android.",
+      "Fixed automatic World progression after Arena and rune operations.",
+      "Optimized purchase and refinement confirmations to reduce server requests.",
+      "Improved stability and synchronization of Arena operations.",
       "Sync your progress to the cloud before installing."
     ]
   }
