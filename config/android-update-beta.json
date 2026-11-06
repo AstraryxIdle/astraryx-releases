@@ -3,22 +3,24 @@
   "enabled": true,
   "channel": "beta",
   "package": "com.astraforge.idle",
-  "version": "0.8.5",
-  "version_code": 85,
-  "apk_url": "https://github.com/AstraryxIdle/astraryx-releases/releases/download/v0.8.5/Astraryx-Idle-v0.8.5.apk",
-  "size_bytes": 924648506,
-  "sha256": "81fdfdff7445272379b6abaac35d92b890f95cde38431e8c449c4e08fa2ddc54",
+  "version": "0.8.6",
+  "version_code": 80600,
+  "apk_url": "https://github.com/AstraryxIdle/astraryx-releases/releases/download/v0.8.6/Astraryx-Idle-v0.8.6.apk",
+  "size_bytes": 881339371,
+  "sha256": "3af4dbbbccd787299afe114f9ada716f4e08777752e76bb3d1cf318825bd5364",
   "notes": {
     "pt-BR": [
-      "Astraryx Idle v0.8.5 disponível para Android.",
-      "Corrigida a confirmação de defesa na Arena PvP.",
-      "A tela de login agora exibe a versão pública do jogo dinamicamente.",
+      "Astraryx Idle v0.8.6 disponível para Android.",
+      "Novo sistema World Boss e melhorias de estabilidade dos combates e recompensas.",
+      "Rebalanceamento da progressão dos Mundos 1 a 5 e dos bosses do Mundo 4.",
+      "Otimização do tráfego do servidor e da sincronização dos saves na nuvem.",
       "Sincronize seu progresso na nuvem antes de instalar."
     ],
     "en": [
-      "Astraryx Idle v0.8.5 is available for Android.",
-      "Fixed defense confirmation in the PvP Arena.",
-      "The login screen now displays the public game version dynamically.",
+      "Astraryx Idle v0.8.6 is available for Android.",
+      "New World Boss system with improved battle and reward stability.",
+      "Rebalanced progression across Worlds 1–5 and World 4 bosses.",
+      "Optimized server traffic and cloud save synchronization.",
       "Sync your progress to the cloud before installing."
     ]
   }
