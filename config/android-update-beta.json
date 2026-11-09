@@ -3,24 +3,26 @@
   "enabled": true,
   "channel": "beta",
   "package": "com.astraforge.idle",
-  "version": "0.8.6.1",
-  "version_code": 80601,
-  "apk_url": "https://github.com/AstraryxIdle/astraryx-releases/releases/download/v0.8.6.1/Astraryx-Idle-v0.8.6.1.apk",
-  "size_bytes": 881340259,
-  "sha256": "0c6f5988a5848019700ee62e4006e08ae4e7ab208706c2fa92ba5c9268041fa6",
+  "version": "0.8.6.3",
+  "version_code": 80603,
+  "apk_url": "https://github.com/AstraryxIdle/astraryx-releases/releases/download/v0.8.6.3/Astraryx-Idle-v0.8.6.3.apk",
+  "size_bytes": 881369165,
+  "sha256": "104e2f09eca0c3fcb0fa0354dad9c57906b8a1db0ae73fd2be2a44a6dc52fde2",
   "notes": {
     "pt-BR": [
-      "Astraryx Idle v0.8.6.1 — Hotfix Beta disponível para Android.",
-      "Corrigido o avanço automático do World após operações da Arena e de runas.",
-      "Confirmações de compras e refinamentos otimizadas para reduzir consultas ao servidor.",
-      "Melhorias de estabilidade e sincronização nas operações da Arena.",
+      "Astraryx Idle v0.8.6.3 — atualização Beta disponível para Android.",
+      "Missões reformuladas: 3 missões diárias e 5 semanais, com novas recompensas.",
+      "Balanceamento de equipamentos: resistências a dano, controle de grupo e crítico reduzidas em 20%.",
+      "Melhorias no combate, no World Boss Grondar e na preparação da Arena PvP.",
+      "Correções nos atributos de luvas, sincronização e estabilidade geral.",
       "Sincronize seu progresso na nuvem antes de instalar."
     ],
     "en": [
-      "Astraryx Idle v0.8.6.1 — Hotfix Beta is available for Android.",
-      "Fixed automatic World progression after Arena and rune operations.",
-      "Optimized purchase and refinement confirmations to reduce server requests.",
-      "Improved stability and synchronization of Arena operations.",
+      "Astraryx Idle v0.8.6.3 — Beta update available for Android.",
+      "Reworked missions: 3 daily and 5 weekly missions with new rewards.",
+      "Equipment balance: damage, crowd control and critical resistances reduced by 20%.",
+      "Combat improvements, World Boss Grondar fixes, and PvP Arena combat preparation.",
+      "Glove attribute fixes, synchronization improvements, and general stability updates.",
       "Sync your progress to the cloud before installing."
     ]
   }
