@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "enabled": false,
+  "channel": "beta",
+  "package": "com.astraforge.idle",
+  "version": "0.8.6.3",
+  "version_code": 80603,
+  "apk_url": "https://github.com/AstraryxIdle/astraryx-releases/releases/download/v0.8.6.3/Astraryx-Idle-v0.8.6.3.apk",
+  "size_bytes": 881369165,
+  "sha256": "104e2f09eca0c3fcb0fa0354dad9c57906b8a1db0ae73fd2be2a44a6dc52fde2",
+  "notes": {
+    "pt-BR": [
+      "Astraryx Idle v0.8.6.3 — Missões, Balanceamento e Melhorias.",
+      "Novas missões: 3 diárias e 5 semanais, com recompensas em gemas, ouro e XP.",
+      "Missões diárias concedem de 1 a 15 gemas; missões semanais, de 20 a 45 gemas.",
+      "Resistências dos equipamentos a dano, controle de grupo e crítico reduzidas em 20% do valor anterior.",
+      "Corrigida a progressão das resistências dos equipamentos de nível 40 e 50.",
+      "Ajustes no Grondar, luvas, receitas, títulos e sistemas de combate.",
+      "Preparação para novo combate da Arena PvP, sujeito à ativação no servidor.",
+      "Sincronize seu progresso na nuvem antes de instalar."
+    ],
+    "en": [
+      "Astraryx Idle v0.8.6.3 — Missions, Balance & Improvements.",
+      "New missions: 3 daily and 5 weekly missions with gems, gold and XP rewards.",
+      "Daily missions award 1–15 gems; weekly missions award 20–45 gems.",
+      "Equipment damage, crowd control and critical resistances reduced by 20% of their previous values.",
+      "Fixed resistance progression between level 40 and level 50 equipment.",
+      "Adjustments to Grondar, gloves, recipes, titles and combat systems.",
+      "Preparation for updated PvP Arena combat, pending server-side activation.",
+      "Sync your progress to the cloud before installing."
+    ]
+  }
+}
