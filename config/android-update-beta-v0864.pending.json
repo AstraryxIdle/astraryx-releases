@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "enabled": false,
+  "channel": "beta",
+  "package": "com.astraforge.idle",
+  "version": "0.8.6.4",
+  "version_code": 80604,
+  "apk_url": "https://github.com/AstraryxIdle/astraryx-releases/releases/download/v0.8.6.4/Astraryx-Idle-v0.8.6.4.apk",
+  "size_bytes": 881363426,
+  "sha256": "8d6b2bc9e1d38ace95a3934e83233be2b686e6b76f23882defe5496199fe6ec7",
+  "notes": {
+    "pt-BR": [
+      "Astraryx Idle v0.8.6.4 — reformulação do World Boss Grondar.",
+      "O combate de Grondar agora utiliza o motor PvE da campanha, com mais fluidez e desempenho.",
+      "Modos AUTO, MISTO e MANUAL executados localmente, sem confirmações por ataque.",
+      "O resultado é enviado ao Supabase ao fim da luta, com reenvio automático após falhas de conexão.",
+      "Mantidas duas tentativas, 120 segundos por luta e proibição de repetir heróis.",
+      "O dano confirmado determina o ranking e as recompensas; sistemas antigos de simulação foram removidos.",
+      "Sincronize seu progresso na nuvem antes de instalar."
+    ],
+    "en": [
+      "Astraryx Idle v0.8.6.4 — Grondar World Boss rework.",
+      "Grondar now uses the campaign PvE combat engine for smoother and faster battles.",
+      "AUTO, MIXED and MANUAL modes run locally without per-attack server confirmation.",
+      "Final results are sent to Supabase, with automatic retries after connection failures.",
+      "Two attempts, 120 seconds per fight and no repeated heroes remain in effect.",
+      "Confirmed damage determines rankings and rewards; obsolete replay systems were removed.",
+      "Sync your progress to the cloud before installing."
+    ]
+  }
+}
