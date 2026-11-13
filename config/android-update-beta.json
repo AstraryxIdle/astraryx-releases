@@ -3,28 +3,22 @@
   "enabled": true,
   "channel": "beta",
   "package": "com.astraforge.idle",
-  "version": "0.8.6.5",
-  "version_code": 80605,
-  "apk_url": "https://github.com/AstraryxIdle/astraryx-releases/releases/download/v0.8.6.5/Astraryx-Idle-v0.8.6.5.apk",
-  "size_bytes": 899457795,
-  "sha256": "3da61c587b7dde278a629549113ae942eb5a9bd94a10afa2fac12f7b2840ce03",
+  "version": "0.8.6.7",
+  "version_code": 80607,
+  "apk_url": "https://github.com/AstraryxIdle/astraryx-releases/releases/download/v0.8.6.7/Astraryx-Idle-v0.8.6.7.apk",
+  "size_bytes": 864057369,
+  "sha256": "0d416bdcae109cf1a31a30f532eb397bdebe78a25b293d61e23ef2b8a98a7d1a",
   "notes": {
     "pt-BR": [
-      "Astraryx Idle v0.8.6.5 — reformulação visual da Forja e melhorias de interface.",
-      "Interfaces dos artesãos reorganizadas, com visual mais limpo e moderno.",
-      "Melhorias no alinhamento, na organização dos itens e na navegação pelos painéis da Forja.",
-      "Tela de Heróis aprimorada, com ajustes de navegação, rolagem e adaptação a dispositivos móveis.",
-      "Correções de proporção, legibilidade e interação por toque.",
-      "Revisão de traduções em português e inglês e testes de compatibilidade do atualizador.",
+      "Astraryx Idle v0.8.6.7 — atualização focada em otimização de desempenho.",
+      "Melhorias de desempenho e fluidez, principalmente na tela de PvP.",
+      "Ajustes internos para tornar a experiência de jogo mais responsiva.",
       "Sincronize seu progresso na nuvem antes de instalar."
     ],
     "en": [
-      "Astraryx Idle v0.8.6.5 — Forge visual overhaul and UI improvements.",
-      "Redesigned artisan interfaces with a cleaner, more modern appearance.",
-      "Better alignment, item organization, and navigation across Forge panels.",
-      "Improved Heroes screen navigation, scrolling, and mobile responsiveness.",
-      "Adjustments to proportions, readability, and touch interactions.",
-      "Updated Portuguese and English localization and updater compatibility checks.",
+      "Astraryx Idle v0.8.6.7 — performance optimization update.",
+      "Improved performance and responsiveness, especially on the PvP screen.",
+      "Internal optimizations for a smoother gameplay experience.",
       "Sync your progress to the cloud before installing."
     ]
   }
