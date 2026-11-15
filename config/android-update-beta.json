@@ -3,22 +3,24 @@
   "enabled": true,
   "channel": "beta",
   "package": "com.astraforge.idle",
-  "version": "0.8.6.7",
-  "version_code": 80607,
-  "apk_url": "https://github.com/AstraryxIdle/astraryx-releases/releases/download/v0.8.6.7/Astraryx-Idle-v0.8.6.7.apk",
-  "size_bytes": 864057369,
-  "sha256": "0d416bdcae109cf1a31a30f532eb397bdebe78a25b293d61e23ef2b8a98a7d1a",
+  "version": "0.8.6.8",
+  "version_code": 80608,
+  "apk_url": "https://github.com/AstraryxIdle/astraryx-releases/releases/download/v0.8.6.8/Astraryx-Idle-v0.8.6.8.apk",
+  "size_bytes": 868163769,
+  "sha256": "0eeb88b12e565d0dbaa2b2fced50b59587552182ad9462e6dff1859e9888af41",
   "notes": {
     "pt-BR": [
-      "Astraryx Idle v0.8.6.7 — atualização focada em otimização de desempenho.",
-      "Melhorias de desempenho e fluidez, principalmente na tela de PvP.",
-      "Ajustes internos para tornar a experiência de jogo mais responsiva.",
+      "Astraryx Idle v0.8.6.8 — Morgana, a Ceifeira do Eclipse, chegou!",
+      "Nova heroína demoníaca com Sangramento, ataques em área e Tempestade das Almas.",
+      "Novos ícones de habilidades, sete foices na Oficina e três retratos reformulados.",
+      "Ajustes visuais e verificações de combate, Oficina e traduções.",
       "Sincronize seu progresso na nuvem antes de instalar."
     ],
     "en": [
-      "Astraryx Idle v0.8.6.7 — performance optimization update.",
-      "Improved performance and responsiveness, especially on the PvP screen.",
-      "Internal optimizations for a smoother gameplay experience.",
+      "Astraryx Idle v0.8.6.8 — Morgana, the Eclipse Reaper, has arrived!",
+      "New demonic hero featuring Bleed, area attacks, and Soul Storm.",
+      "New skill icons, seven scythes in the Workshop, and three updated portraits.",
+      "Visual refinements and combat, Workshop, and localization checks.",
       "Sync your progress to the cloud before installing."
     ]
   }
