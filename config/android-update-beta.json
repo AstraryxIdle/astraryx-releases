@@ -1,27 +1,35 @@
 {
-  "version": "0.8.7.0",
-  "version_code": 80700,
+  "version": "0.8.6.9",
+  "version_code": 80609,
   "package": "com.astraforge.idle",
-  "size_bytes": 655239257,
-  "sha256": "745f61e9740cc6c5603a937c75571c8b8ae3325ac7ef4de7a2edc62788d42871",
+  "size_bytes": 868172221,
+  "sha256": "e2dcb8edc8a6cdec663bb22ffe38050126d106dcccef990d5be909c5ba3d8d4b",
   "schema_version": 1,
   "enabled": true,
   "channel": "beta",
   "notes": {
     "pt-BR": [
-      "Pacote Android cerca de 25% menor.",
-      "Qualidade gráfica baixa, média ou alta para os efeitos de combate.",
-      "Resgate do correio sem mensagem de confirmação.",
-      "Grondar compatível com a 0.8.7.0 e Morgana no ranking de heróis."
+      "As quatro skills ativas da Morgana passam a aumentar o dano a cada nível, com a prévia do próximo aprimoramento.",
+      "O crescimento de HP, ataque e defesa da Morgana acompanha os incrementos da Fae.",
+      "PvP preparado para Morgana nas formações de ataque e defesa, com confirmação e mensagens de recusa da Arena.",
+      "PvP com preparação do combate distribuída entre quadros e menos trabalho de apresentação repetido.",
+      "A Arena mostra os pontos atuais confirmados pelo servidor e recupera a confirmação de partidas concluídas após fechar a tela.",
+      "A campanha de fundo pausa durante o combate PvP e retoma ao sair.",
+      "Inclui as melhorias visuais e de balanceamento da Morgana preparadas para a 0.8.6.8.",
+      "Grondar mantém o combate local e a autorização de tentativas pelo servidor."
     ],
     "en": [
-      "Android package about 25% smaller.",
-      "Low, medium, and high graphics quality for combat effects.",
-      "Mail rewards no longer show a success message.",
-      "Grondar supports 0.8.7.0 and Morgana appears in the hero rankings."
+      "Morgana's four active skills now gain damage at each rank and show the next upgrade preview.",
+      "Morgana's HP, attack and defense growth follows Fae's level increments.",
+      "PvP prepared for Morgana in attack and defense formations, with Arena confirmation and rejection messages.",
+      "PvP combat preparation is spread across display frames with less repeated presentation work.",
+      "Arena displays current server-confirmed points and retries completed match confirmation after the screen closes.",
+      "The background campaign pauses during PvP combat and resumes on exit.",
+      "Includes the Morgana visual and balance improvements prepared for 0.8.6.8.",
+      "Grondar retains local combat and server-authorized attempts."
     ]
   },
-  "apk_url": "https://github.com/AstraryxIdle/astraryx-releases/releases/download/v0.8.7.0/Astraryx-Idle-v0.8.7.0.apk",
+  "apk_url": "https://github.com/AstraryxIdle/astraryx-releases/releases/download/v0.8.6.9/Astraryx-Idle-v0.8.6.9.apk",
   "signature_key_id": "astraryx_manifest_2026_11",
-  "signature": "vjtUUBCHHf4b1eMdpZAFQH4w7szkVKt0avTg45datPXJbp0NyskQSTe4VFaqteindk173qUVup6CIl0CCYtCOD+Tbg+vjB0J17N5cEso+f/ORAmIBGjshmqyaYfyqBnyKm31ahTipdE5GPv7emEqW9jrT23oyHkfdRCqJjfhVObw7UGAVTMnRKyKuNZm1w0G2NOflX0ozCRP8F0/E4PzXA8Z4IW4t5kRfSPIz1yYw29FCDDgq2Xr/R+cZjGNyuD6oNCrWJM7hzEnmiupg7UGJ0zHGD80iCr2ezPkRd0zMIHo1olJe/iAWagQ4EPOmoxN3NxsxNWBS0ui5GiYGp/A6Nrm6D76S387duiTXQPrKMHmGNqoobmcyQeavtCZXHpwaEXizoL8t9aFTWTBfVEZ0LAh51VMgZQZyFGd5vOzg4bzUQn0l/EQDOfwQq38PCbM97L9Vsd2K/tvoMSE93Ts1osIkvjEw5z93xh4jk4JO9akN1jVa57OUdBpqDPEdaHv"
+  "signature": "wHyZkcj5099s6qaOL35d0xn3JrtgLVH334fGfwi2ApmZhKHAwHKtoSWNzY3MlmkI/Tqb01bYCImP3+CS9atvtfw0MkqYfdggCcNOj3AI5dM0hIt1Mvf1g9JwmduNpGxHLESGJS9G/d97XmJT6U284H9/XoQS0+YAHB5R2LS7yCDWaD5oaxytKeTzc+svIbBygGwp5414RJRKv5XfajhOLal21UKEsrFHjjZqwGa+BNU9j2AoNxGtIVqb9m44rAQYE8eIrRGuUsWru9RWUtDOEFTT7+K1MYECkWoW7S4elIMRwAyh5u2V0UKW04yEZqFWUadV6ah/BrLfWpWpKK7PHiH7lS4eSCx/mSiKWvxcOkZ7kf40VAA5/DhpjTixbmPDxtbfCiEJbatvEXak6csX3jTMKar43CTPwPlbBLEPQ5+UpdxbcNotZTAVCD34lEKq18D7UqUTZc85lo+SOE7z5ZghukRVO/JUhV2yFxRFLyuwWvX1q9XgCVK0oVBRJf8N"
 }
