@@ -1,31 +1,25 @@
 {
-  "version": "0.8.7.2",
-  "version_code": 80702,
+  "version": "0.8.7.3",
+  "version_code": 80703,
   "package": "com.astraforge.idle",
-  "size_bytes": 630390887,
-  "sha256": "a756e3737e0ecc291c488f00c43461f06def04844b1b95f7af20fd0339c85a96",
+  "size_bytes": 630391399,
+  "sha256": "8ac8947ee26148d48ef9685bbc8df96dfea5188b8d0cc39815f8bff8f36f7d0b",
   "schema_version": 1,
   "enabled": true,
   "channel": "beta",
   "notes": {
     "pt-BR": [
-      "As 2.150 fases têm cenários por região, com a arena livre para enxergar os combatentes.",
-      "A HUD de combate dá destaque à fase e mostra a Fúria quando o chefe a ativa.",
-      "A Forja recupera os níveis 50 a 100 e usa materiais disponíveis antes dos chefes correspondentes.",
-      "Ascensão III passa a exigir seis materiais do Mundo 5, com 60 unidades de cada.",
-      "Kharun tem um kit de bastão com esquiva, controle e novos efeitos animados. Lyn ganha força contra alvos isolados.",
-      "A atualização foi otimizada para reduzir o custo da interface em batalha."
+      "Baixe e instale atualizações na tela de login, sem entrar na conta do jogo.",
+      "Quando uma atualização é obrigatória, a tela de login abre o atualizador.",
+      "Se uma versão antiga ficou presa no login, instale o APK oficial por cima dela para manter o progresso."
     ],
     "en": [
-      "All 2,150 stages use regional scenery with a clear view of the combatants.",
-      "The battle HUD highlights the stage and shows Rage when a boss triggers it.",
-      "The Forge restores level 50–100 equipment with materials available before the corresponding bosses.",
-      "Third Ascension now requires 60 of each of six World 5 materials.",
-      "Kharun has a staff kit built around evasion and control, with newly animated effects. Lyn is stronger against isolated targets.",
-      "The battle interface uses less processing time."
+      "Download and install updates from the sign-in screen without signing in to the game.",
+      "When an update is required, the sign-in screen opens the updater.",
+      "If an older version is stuck at sign-in, install the official APK over it to keep your progress."
     ]
   },
-  "apk_url": "https://github.com/AstraryxIdle/astraryx-releases/releases/download/v0.8.7.2/Astraryx-Idle-v0.8.7.2.apk",
+  "apk_url": "https://github.com/AstraryxIdle/astraryx-releases/releases/download/v0.8.7.3/Astraryx-Idle-v0.8.7.3.apk",
   "signature_key_id": "astraryx_manifest_2026_11",
-  "signature": "vfqrOcYwnDJf8avNVC2NecmsgGWvHr1tSaOaLGvkvj1fMByljNmArBq54vOTwd7vjdLFECj186ku1n3h4Bx91t0Bm6vgzGKoZrSxm5qycPD7b3ZQJ+8fQkVdPsNl8jyvRg/J21omDFI8Eg0K8FyDYNFJkCP95r27ICPb0IKYmQJtR5f3lDJbenQlPcif3yhkNRp7gtCep1+iIAvudBkmr+jYMSflgDjVkXraKpGCbA9UMsMxxaRCY6XFzEpDq/nUW3FEZsylwKfn2ri+nhdi08RR58OV6V8tyPgA0YXs7tgVepRQQKi7jusRYuOO2Isp8twmpTCHUEV5vjks6SHfgvIzPzqauYWlVgj9blKMV3kNApqE/WSHmczuSAvzI/drcUTfpiUpfRo5xXp/uSAuNzHyGQTXFeHZbCi988rh9MdcUFSYgiM1zqMZPD/iTb2bc2JJDpYFNsyK/jlRbar51Ou5ig04QkrO/AipfbCSMpoyE9+bcSPkdKc2WIc+p7pP"
+  "signature": "OWlMcODKI22ar00CtEpt0AWKvE1MCv3cVAtnT8zty41pomZzxc38zEdDurJ6ntoy6yhBYFzzV2pIekZ95Lcz9uNMIZG+b0sA9vgJrlygQSAGnImHVxUPTcCKJJ6Sf2x7CS0b05h7L5fdMc6vCmcEc32Aduq9/ZB6m9HyueoH41NyhqGlRr9og/u2hZqoExba4eu5kd12NcChNH+ewnwFXqp/YvzdA8GIj5D+JWeewWnBSTMg8jNvdLSJpv2DLqCIoddwKnJnS4+c6ncd0jPzVuQtI3Jj5/P8F5wdgbb6ZhtDYBz4B2cgVnSqIuqgfo7W1aOOEK8nW/FdVlT2LAF7Ctmz3qDFluOVhEd19E5pmPfu51u5be8DUn/i6y+fuj/HEZMTKd54I77o5j75F6Z/FOGink7XR7NWN3FLh/jAODRsrhkhGykhq+uaBFCOIaUdjZJgxj06261jTll7dt3z7+lXgbM8DnxpwskH1frLNKPnv4AOWhCCJTmL72dnXSMv"
 }
