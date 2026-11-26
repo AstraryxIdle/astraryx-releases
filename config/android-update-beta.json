@@ -1,27 +1,31 @@
 {
-  "version": "0.8.7.1",
-  "version_code": 80701,
+  "version": "0.8.7.2",
+  "version_code": 80702,
   "package": "com.astraforge.idle",
-  "size_bytes": 587390759,
-  "sha256": "52d079cd25f0371c552280841f4530e6c76c99e60daf8b96bccbc5424f8a0104",
+  "size_bytes": 630390887,
+  "sha256": "a756e3737e0ecc291c488f00c43461f06def04844b1b95f7af20fd0339c85a96",
   "schema_version": 1,
   "enabled": true,
   "channel": "beta",
   "notes": {
     "pt-BR": [
-      "APK Android ARM64 de 587,4 MB, cerca de 67,8 MB menor que o da versão 0.8.7.0.",
-      "A Arena 5×5 aceita equipes de um a cinco heróis no ataque e na defesa. No Duelo, cada lado entra com um herói.",
-      "O atualizador apaga os APKs e os fragmentos de download obsoletos da sua pasta privada assim que o Android confirma a instalação. O progresso é preservado.",
-      "A Arena 5×5 e o Grondar reaproveitam mais trabalho de apresentação. As medições em desktop registraram mais FPS e menos tempo de quadro no p95 nas duas cenas."
+      "As 2.150 fases têm cenários por região, com a arena livre para enxergar os combatentes.",
+      "A HUD de combate dá destaque à fase e mostra a Fúria quando o chefe a ativa.",
+      "A Forja recupera os níveis 50 a 100 e usa materiais disponíveis antes dos chefes correspondentes.",
+      "Ascensão III passa a exigir seis materiais do Mundo 5, com 60 unidades de cada.",
+      "Kharun tem um kit de bastão com esquiva, controle e novos efeitos animados. Lyn ganha força contra alvos isolados.",
+      "A atualização foi otimizada para reduzir o custo da interface em batalha."
     ],
     "en": [
-      "The ARM64 Android APK is 587.4 MB, about 67.8 MB smaller than version 0.8.7.0.",
-      "Team Arena accepts one to five heroes on either side. In Duels, each side enters with one hero.",
-      "The updater clears obsolete APKs and download fragments from its private folder as soon as Android confirms installation. Game progress is preserved.",
-      "Arena 5v5 and Grondar reuse more rendering work. Desktop benchmarks recorded higher FPS and lower p95 frame times in both scenes."
+      "All 2,150 stages use regional scenery with a clear view of the combatants.",
+      "The battle HUD highlights the stage and shows Rage when a boss triggers it.",
+      "The Forge restores level 50–100 equipment with materials available before the corresponding bosses.",
+      "Third Ascension now requires 60 of each of six World 5 materials.",
+      "Kharun has a staff kit built around evasion and control, with newly animated effects. Lyn is stronger against isolated targets.",
+      "The battle interface uses less processing time."
     ]
   },
-  "apk_url": "https://github.com/AstraryxIdle/astraryx-releases/releases/download/v0.8.7.1/Astraryx-Idle-v0.8.7.1.apk",
+  "apk_url": "https://github.com/AstraryxIdle/astraryx-releases/releases/download/v0.8.7.2/Astraryx-Idle-v0.8.7.2.apk",
   "signature_key_id": "astraryx_manifest_2026_11",
-  "signature": "zX8AnRIKHA7KJ/bMWCAQDWEEQZ+jPkf+CgstKBGYshsm5ggLgC/MmehkfJqsdiH6AHrL29dmGPR21HSHZ84Pw90Oh/8wuj3sxa2Fyo5co/i0XirGu/tWFElZG7KZcLLrl3IUiEIxwxHX+X21DhjIDvddFEcCM8yJc7A5C3SquKcxrSQoNYxELM5mSdGU59CZOtp5d8mFGOp1g9uR4wP5uYwWWndwskNGFtWLnvJ7AiqGkmAD3ylSbzKUj0EkaVwX3gctlo+jhcwzTXeE6x1ONXd1Uk1MPIG0xaD0xcwtYgfCSl87I/JDmpjVcRSNSoGAeHCaOQ8hTtNSwDVo08nKB0i7GW++GHUqRizRVY447d05ovwht3DF71IG3xSBWKZ1Tgyou20mQDeMN/1zXgEkYhnwQMy3QBsjy1Ouw0kAS/oW6exr/+uo/dmwRBA/AmU1NICvIXWceSnNfimOFD98iOjbOkjFzfrwzFju5aph1qLZ8XHIEmfx/XPWKWGUJvUs"
+  "signature": "vfqrOcYwnDJf8avNVC2NecmsgGWvHr1tSaOaLGvkvj1fMByljNmArBq54vOTwd7vjdLFECj186ku1n3h4Bx91t0Bm6vgzGKoZrSxm5qycPD7b3ZQJ+8fQkVdPsNl8jyvRg/J21omDFI8Eg0K8FyDYNFJkCP95r27ICPb0IKYmQJtR5f3lDJbenQlPcif3yhkNRp7gtCep1+iIAvudBkmr+jYMSflgDjVkXraKpGCbA9UMsMxxaRCY6XFzEpDq/nUW3FEZsylwKfn2ri+nhdi08RR58OV6V8tyPgA0YXs7tgVepRQQKi7jusRYuOO2Isp8twmpTCHUEV5vjks6SHfgvIzPzqauYWlVgj9blKMV3kNApqE/WSHmczuSAvzI/drcUTfpiUpfRo5xXp/uSAuNzHyGQTXFeHZbCi988rh9MdcUFSYgiM1zqMZPD/iTb2bc2JJDpYFNsyK/jlRbar51Ou5ig04QkrO/AipfbCSMpoyE9+bcSPkdKc2WIc+p7pP"
 }
