@@ -1,25 +1,25 @@
 {
-  "version": "0.8.7.4",
-  "version_code": 80704,
+  "version": "0.8.7.5",
+  "version_code": 80705,
   "package": "com.astraforge.idle",
-  "size_bytes": 630399067,
-  "sha256": "413782f6b9874cdac14af4ac8f39a866e936017205502f5fd069d1caa51bb932",
+  "size_bytes": 630410537,
+  "sha256": "7b2808b66adee5ba6dfa278406f812489a7591f94d63e5c2d34c0332acc76a9d",
   "schema_version": 1,
   "enabled": true,
   "channel": "beta",
   "notes": {
     "pt-BR": [
-      "Ao abrir o jogo no Android, o atualizador verifica se há uma nova versão antes do login.",
-      "A atualização usa o instalador do Android e pode ser concluída sem entrar na conta.",
-      "Corrigido um bloqueio ao abrir ou coletar Recompensas Offline após o login."
+      "Corrigido um fechamento do jogo no Android ao retornar à campanha, inclusive ao coletar Recompensas Offline.",
+      "O APK inclui as tabelas de atributos e experiência da Ascensão III.",
+      "Instale sobre a versão existente para preservar o progresso local."
     ],
     "en": [
-      "On Android, the updater checks for a new version before sign-in when the game opens.",
-      "The update uses the Android installer and can be completed without signing in.",
-      "Fixed a lock-up when opening or claiming Offline Rewards after sign-in."
+      "Fixed an Android crash when returning to the campaign, including after claiming Offline Rewards.",
+      "The APK includes the Ascension III stat and experience tables.",
+      "Install over the existing version to keep local progress."
     ]
   },
-  "apk_url": "https://github.com/AstraryxIdle/astraryx-releases/releases/download/v0.8.7.4/Astraryx-Idle-v0.8.7.4.apk",
+  "apk_url": "https://github.com/AstraryxIdle/astraryx-releases/releases/download/v0.8.7.5/Astraryx-Idle-v0.8.7.5.apk",
   "signature_key_id": "astraryx_manifest_2026_11",
-  "signature": "ylb4Vota061WKpVF3vh+zfiYSUxjhemlAxVfHiXDyFM0bpJuB+xJ/xDCdLt4GW1wySQ+R0fYVMMStLoX6xmfu/EWVqyHKkKuSdwKNFTcHlUTswtfRX95fvAJzrhybxlV85l+ktmq1K7Il8rOKGXMI0Kdo+OdS4519CqwtnOktLBG4O5ps3iBvszJGJ7Gl37bZxOkC9wYXgBVSyygCdOZydlg+b/JPq21RZxp21x7ggn4uOKs28oUbKaltBFcFjiHmvfKkZVYUfDCqQApUupDWUD0zALEDvjIbl9HKiGTLoUFUqERY6R7wg4EaXiShWtITrnqI9+b4Mb6WerZgZ38b7h8g587EWBlC4gx7XOxyviA+y3T5NgvhsPSa1BHIQ94EWpOMCG1RNV5XVcqbo1Zpk98D3zIi411YM20Hdl+vQNmJNGEYiK3OrEbY7KOfaZ8G4zi5hzgVjLemHGMICqPbmCGPknFUZZmgazTrJcIV6OpV4D3eDaS6O5F7MfwfMFz"
+  "signature": "VGDHoJAxpEKZRqaB3DscPv3DeraU+oO3urAhCV9Z9XjH0Qir9K6OAoNeHXIv50ViaZxsck6IQOn5ebBJPIlJyTUt03IwVMTRyV/Ul1CQkJgINECoE3Zwu2eTzT2xwfzIqf1zw3NG/ZH6w6xBnhA5ecpdO7gnVP/Gm9prWSUkCo0DxOjxNI5IZnIfCjvGr/vQfkXmcEb/flzzUrbN0Nhb/T8KTZWRFB7YTZBivTN1n4+Tgp/hLnIGNfuBzt4AU6IUrmXVfLOkjbGvZuTEl7R2z4GuEU4WrC/8An+XK0eVhgIaIfia7NmGXSGPol8p0YHUedgmydLbUd5VK16PVMTENwJDr5xkgbFHyzqc0ypnoVaNWxGRCKkfEWz4w4lKebXJwTPigvBkN7SCazDoHZjE6VzhvgQZc5r4X3T5Fsh+b/hjbU3WdpVOLXet8Y0zzC+GsZioyyrsgPkWb1Q6sc9PoxSvAZC1tAAiLBQCVNLY1wAXPzMctXA3kkUb0Bo9xTPk"
 }
