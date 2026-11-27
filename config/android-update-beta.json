@@ -1,25 +1,25 @@
 {
-  "version": "0.8.7.3",
-  "version_code": 80703,
+  "version": "0.8.7.4",
+  "version_code": 80704,
   "package": "com.astraforge.idle",
-  "size_bytes": 630391399,
-  "sha256": "8ac8947ee26148d48ef9685bbc8df96dfea5188b8d0cc39815f8bff8f36f7d0b",
+  "size_bytes": 630399067,
+  "sha256": "413782f6b9874cdac14af4ac8f39a866e936017205502f5fd069d1caa51bb932",
   "schema_version": 1,
   "enabled": true,
   "channel": "beta",
   "notes": {
     "pt-BR": [
-      "Baixe e instale atualizações na tela de login, sem entrar na conta do jogo.",
-      "Quando uma atualização é obrigatória, a tela de login abre o atualizador.",
-      "Se uma versão antiga ficou presa no login, instale o APK oficial por cima dela para manter o progresso."
+      "Ao abrir o jogo no Android, o atualizador verifica se há uma nova versão antes do login.",
+      "A atualização usa o instalador do Android e pode ser concluída sem entrar na conta.",
+      "Corrigido um bloqueio ao abrir ou coletar Recompensas Offline após o login."
     ],
     "en": [
-      "Download and install updates from the sign-in screen without signing in to the game.",
-      "When an update is required, the sign-in screen opens the updater.",
-      "If an older version is stuck at sign-in, install the official APK over it to keep your progress."
+      "On Android, the updater checks for a new version before sign-in when the game opens.",
+      "The update uses the Android installer and can be completed without signing in.",
+      "Fixed a lock-up when opening or claiming Offline Rewards after sign-in."
     ]
   },
-  "apk_url": "https://github.com/AstraryxIdle/astraryx-releases/releases/download/v0.8.7.3/Astraryx-Idle-v0.8.7.3.apk",
+  "apk_url": "https://github.com/AstraryxIdle/astraryx-releases/releases/download/v0.8.7.4/Astraryx-Idle-v0.8.7.4.apk",
   "signature_key_id": "astraryx_manifest_2026_11",
-  "signature": "OWlMcODKI22ar00CtEpt0AWKvE1MCv3cVAtnT8zty41pomZzxc38zEdDurJ6ntoy6yhBYFzzV2pIekZ95Lcz9uNMIZG+b0sA9vgJrlygQSAGnImHVxUPTcCKJJ6Sf2x7CS0b05h7L5fdMc6vCmcEc32Aduq9/ZB6m9HyueoH41NyhqGlRr9og/u2hZqoExba4eu5kd12NcChNH+ewnwFXqp/YvzdA8GIj5D+JWeewWnBSTMg8jNvdLSJpv2DLqCIoddwKnJnS4+c6ncd0jPzVuQtI3Jj5/P8F5wdgbb6ZhtDYBz4B2cgVnSqIuqgfo7W1aOOEK8nW/FdVlT2LAF7Ctmz3qDFluOVhEd19E5pmPfu51u5be8DUn/i6y+fuj/HEZMTKd54I77o5j75F6Z/FOGink7XR7NWN3FLh/jAODRsrhkhGykhq+uaBFCOIaUdjZJgxj06261jTll7dt3z7+lXgbM8DnxpwskH1frLNKPnv4AOWhCCJTmL72dnXSMv"
+  "signature": "ylb4Vota061WKpVF3vh+zfiYSUxjhemlAxVfHiXDyFM0bpJuB+xJ/xDCdLt4GW1wySQ+R0fYVMMStLoX6xmfu/EWVqyHKkKuSdwKNFTcHlUTswtfRX95fvAJzrhybxlV85l+ktmq1K7Il8rOKGXMI0Kdo+OdS4519CqwtnOktLBG4O5ps3iBvszJGJ7Gl37bZxOkC9wYXgBVSyygCdOZydlg+b/JPq21RZxp21x7ggn4uOKs28oUbKaltBFcFjiHmvfKkZVYUfDCqQApUupDWUD0zALEDvjIbl9HKiGTLoUFUqERY6R7wg4EaXiShWtITrnqI9+b4Mb6WerZgZ38b7h8g587EWBlC4gx7XOxyviA+y3T5NgvhsPSa1BHIQ94EWpOMCG1RNV5XVcqbo1Zpk98D3zIi411YM20Hdl+vQNmJNGEYiK3OrEbY7KOfaZ8G4zi5hzgVjLemHGMICqPbmCGPknFUZZmgazTrJcIV6OpV4D3eDaS6O5F7MfwfMFz"
 }
